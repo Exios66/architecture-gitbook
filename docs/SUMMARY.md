@@ -12,7 +12,8 @@
   * [Saint Enigma](core-documentation/chatbot-behavioral-profile-explanation/saint-enigma.md)
   * [Doctor Milgrim](core-documentation/chatbot-behavioral-profile-explanation/doctor-milgrim.md)
   * [Prestigious Doctor Scarlet Quinn](core-documentation/chatbot-behavioral-profile-explanation/prestigious-doctor-scarlet-quinn.md)
-  * [Chatbot Profiles Changelog](core-documentation/chatbot-behavioral-profile-explanation/chatbot-profiles-changelog.md)
+  * [Chatbot Profiles Changelog](core-documentation/chatbot-behavioral-profile-explanation/chatbot-profiles-changelog/README.md)
+    * [Chatbot Version Repository](https://github.com/Exios66/truth-deception-architecture/tree/4fe164beb08ec614ca28f4c71ae2dab31775356e/Chatbot_Profiles)
   * [Your Average Alan Turing](core-documentation/chatbot-behavioral-profile-explanation/your-average-alan-turing.md)
 * [Experimental Question Datasets](core-documentation/experimental-question-datasets/README.md)
   * [Geography & History Questions](core-documentation/experimental-question-datasets/geography-and-history-questions.md)
@@ -21,7 +22,9 @@
     * [Literature Questions v1](https://drive.google.com/file/d/13rrLp59BZIBY10xugHf6-G2HewMrgeP-/view?usp=drive_link)
   * [Astronomy & Physics Questions](core-documentation/experimental-question-datasets/astronomy-and-physics-questions.md)
   * [Mathematics & Geometry](core-documentation/experimental-question-datasets/mathematics-and-geometry.md)
-* [HTML Soundboard Documentation](core-documentation/html-soundboard-documentation.md)
+* [HTML Soundboard Documentation](core-documentation/html-soundboard-documentation/README.md)
+  * [GitHub Pages](https://exios66.github.io/truth-deception-architecture/)
+  * [Project GitHub Repository](https://github.com/Exios66/Soundboard-Python)
 
 ## Research Literature Review Files
 
@@ -64,5 +67,8 @@
   * [EEG-Analysis Literature](research-literature-review-files/literature-reviews/eeg-analysis-literature.md)
   * [Cognitive Dissonance Literature](research-literature-review-files/literature-reviews/cognitive-dissonance-literature.md)
 * [External Resources & URLs](research-literature-review-files/external-resources-and-urls.md)
-* [External Project Survey Resources](research-literature-review-files/external-project-survey-resources.md)
+* [External Project Survey Resources](research-literature-review-files/external-project-survey-resources/README.md)
+  * [Free Will Survey](https://drive.google.com/file/d/1H_RtXc_HoHTn1nkx9bfjfZpd1ZxUYYXA/view?usp=drivesdk)
+  * [NASA-TLX Survey](https://drive.google.com/file/d/1UUEw6CfTEKu1WV-CtlGDa6QNNkpEU6ml/view?usp=drivesdk)
+  * [GPT Exposure Survey](https://drive.google.com/file/d/1nVByegj5AFxj7a02soLCZYTg83GjvBBf/view?usp=drivesdk)
 * [Supporting Repos, Docs, and Projects](research-literature-review-files/supporting-repos-docs-and-projects.md)
