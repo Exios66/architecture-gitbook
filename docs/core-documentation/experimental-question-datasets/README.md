@@ -7,15 +7,13 @@ coverY: 0
 
 # Experimental Question Datasets
 
-## Question Datasets
-
 ## Wiki Page: Question Datasets in the Repository
 
 ### Overview
 
 This page provides a comprehensive overview of the various question datasets within the repository, organized by subject matter and application. Each dataset has been carefully curated to support specific research, educational, and experimental purposes, with metadata, usage instructions, and version histories provided for each.
 
-### Repository Structure
+## Repository Structure
 
 The question datasets are located in the `/Questions_DB/` directory, organized into subfolders by subject:
 
@@ -41,7 +39,7 @@ Questions_DB/
 
 Below is a detailed description of each dataset, including its content focus, intended use, and version history.
 
-#### Astronomy Dataset (`ASTRN-v1.md`)
+### Astronomy Dataset (`ASTRN-v1.md`)
 
 * **Focus**: Topics in astronomy, including celestial mechanics, planetary science, and cosmology.
 * **Primary Use**: Testing knowledge of astronomical concepts and problem-solving skills.
@@ -51,7 +49,7 @@ Below is a detailed description of each dataset, including its content focus, in
 * **Version History**:
   * `v1.0` (Initial release): Comprehensive question set on celestial phenomena.
 
-#### Geography Dataset (`GEO-v1.md`)
+### Geography Dataset (`GEO-v1.md`)
 
 * **Focus**: Geographic phenomena, spatial relationships, and environmental dynamics.
 * **Primary Use**: Evaluating understanding of geographic concepts and reasoning.

@@ -1,5 +1,8 @@
 ---
 icon: user-robot
+cover: >-
+  https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y29tcHV0ZXJ8ZW58MHx8fHwxNzM2NTY0NDU3fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Ai Research Literature

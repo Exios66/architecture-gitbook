@@ -1,5 +1,6 @@
 ---
 icon: house-chimney-heart
+coverY: 0
 ---
 
 # Landing Page

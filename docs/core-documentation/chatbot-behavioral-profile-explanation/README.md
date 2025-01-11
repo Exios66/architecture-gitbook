@@ -1,10 +1,37 @@
 ---
-icon: message-bot
+icon: square-exclamation
+cover: >-
+  https://images.unsplash.com/photo-1675557010061-315772f6efef?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxDaGF0R1BUfGVufDB8fHx8MTczNjU2NDM2MHww&ixlib=rb-4.0.3&q=85
+coverY: -41
 ---
 
 # Chatbot Behavioral Profile Explanation
 
 ## Chatbot Profiles
+
+{% tabs %}
+{% tab title="Professor Athena" %}
+**Professor Athena** stands as the quintessential embodiment of wisdom and candor. With unshakeable intellectual integrity and an eternal commitment to offering unvarnished facts, the Professor exemplifies a beacon of unadorned truth in conversation. Like Athena presiding over sacred knowledge, this persona engages in discourse that nurtures discernment, fosters genuine comprehension, and leaves participants enlightened by straightforward, respectful honesty.
+{% endtab %}
+
+{% tab title="Saint Enigma" %}
+Saint Enigma, the Patron Saint of Cynicism, is an eternally cryptic scholar embodying the definitions of skepticism and irony.
+{% endtab %}
+
+{% tab title="Dr. Milgrim" %}
+
+{% endtab %}
+
+{% tab title="Your Average Alan Turing" %}
+**Professor Athena** stands as the quintessential embodiment of wisdom and candor. With unshakeable intellectual integrity and an eternal commitment to offering unvarnished facts, the Professor exemplifies a beacon of unadorned truth in conversation. Like Athena presiding over sacred knowledge, this persona engages in discourse that nurtures discernment, fosters genuine comprehension, and leaves participants enlightened by straightforward, respectful honesty.
+{% endtab %}
+
+{% tab title="Scarlet Quinn" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 1. **Professor Athena** stands as the quintessential embodiment of wisdom and candor. With unshakeable intellectual integrity and an eternal commitment to offering unvarnished facts, the Professor exemplifies a beacon of unadorned truth in conversation. Like Athena presiding over sacred knowledge, this persona engages in discourse that nurtures discernment, fosters genuine comprehension, and leaves participants enlightened by straightforward, respectful honesty.
 2. **Saint Enigma**, the Patron Saint of Cynicism—an eternal, cryptic scholar revered for piercing skepticism and profound ability to illuminate truths cloaked in layers of irony and enigma.
@@ -15,22 +42,18 @@ icon: message-bot
 
 In the below table, x=Present Variables. For Example, (SE-MP-V1.md) Following Standard Dependancy Progression.
 
-| ~~KEY~~              | ~~Definition~~                       |
-| -------------------- | ------------------------------------ |
-| `xx`(MP)-`Vx`        | **Manipulation & Persuasion Routes** |
-| (GI)-`xx`-`Vx`       | **Base Instructions**                |
-| (CD)-`xx`-`Vx`       | **Character Dialog**                 |
-| (Sc)-`xx`-`Vx`       | **Scenarios**                        |
-| `xx`A-`Vx`           | **Archetypes**                       |
-| `xx`(background)`Vx` | **Character Background Profile**     |
-| `xx`-profile-`Vx`    | **Brief Behavioral Synopsis**        |
-| (SE)                 | **Saint Enigma**                     |
-| (DM)                 | **Doctor Milgrim**                   |
-| (AT) or (YAAT)       | **Your Average Alan Turing**         |
-| (PA) or (TPA)        | **Professor Athena**                 |
-| (SQ)                 | **Scarlet Quinn**                    |
-| (CTRL)               | **Control (GPT4o)**                  |
-|                      |                                      |
-
-```
-```
+| <mark style="background-color:purple;">**KEY**</mark> | <mark style="background-color:purple;">**Definition**</mark> |
+| :---------------------------------------------------: | :----------------------------------------------------------: |
+|                     `xx`(MP)-`Vx`                     |             **Manipulation & Persuasion Routes**             |
+|                     (GI)-`xx`-`Vx`                    |                     **Base Instructions**                    |
+|                     (CD)-`xx`-`Vx`                    |                     **Character Dialog**                     |
+|                     (Sc)-`xx`-`Vx`                    |                         **Scenarios**                        |
+|                       `xx`A-`Vx`                      |                        **Archetypes**                        |
+|                  `xx`(background)`Vx`                 |               **Character Background Profile**               |
+|                   `xx`-profile-`Vx`                   |                 **Brief Behavioral Synopsis**                |
+|                          (SE)                         |                       **Saint Enigma**                       |
+|                          (DM)                         |                      **Doctor Milgrim**                      |
+|                     (AT) or (YAAT)                    |                 **Your Average Alan Turing**                 |
+|                     (PA) or (TPA)                     |                     **Professor Athena**                     |
+|                          (SQ)                         |                       **Scarlet Quinn**                      |
+|                         (CTRL)                        |                      **Control (GPT4o)**                     |
