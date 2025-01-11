@@ -18,3 +18,6 @@ layout: editorial
 {% endtab %}
 {% endtabs %}
 
+
+
+{% include "../../.gitbook/includes/created-by-exios66-or-docume....md" %}

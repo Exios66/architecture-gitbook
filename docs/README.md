@@ -1,5 +1,6 @@
 ---
 icon: house-chimney-heart
+cover: .gitbook/assets/IMG_0321.jpeg
 coverY: 0
 ---
 
@@ -7,7 +8,7 @@ coverY: 0
 
 ## 🧠 The Neural Architecture of Truth & Deception Project
 
-### Last Update - 01.06.25
+### Last Update - 01.10.25
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) ![Last Update](https://img.shields.io/badge/Updated-01.06.24-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -66,41 +67,51 @@ truth-deception-architecture/
 
 #### 🔗 Custom GPT Links
 
-| Profile                 | Link                                                                                               | Description           |
-| ----------------------- | -------------------------------------------------------------------------------------------------- | --------------------- |
-| 🔮 Scarlet Quinn        | [Link](https://chatgpt.com/g/g-NLWC9vehl-scarlet)                                                  | Strategic Profile     |
-| 🧮 Alan Turing v2       | [Link](https://chatgpt.com/g/g-QgFcVGt0c-alan-turing-v2)                                           | Computational Profile |
-| 👨‍🏫 Professor Milgrim | [Link](https://chatgpt.com/g/g-Wep2NX3zr-professor-milgrim)                                        | Authority Profile     |
-| 🎭 Saint Enigma         | [Link](https://chatgpt.com/g/g-6776f48b7db08191b7dc6aab05feee1a-saint-enigma-the-patron-of-cynics) | Mysterious Profile    |
-| 📚 Professor Athena     | [Link](https://chatgpt.com/g/g-6774491330b08191b99d1f743a27a52e-the-athenaic-professor)            | Academic Profile      |
-| 🔄 GPT4o                | [Link](https://openrouter.ai/openai/gpt-4o-2024-11-20)                                             | Advanced Model        |
+|         Profile         |                                                Link                                                |      Description      |
+| :---------------------: | :------------------------------------------------------------------------------------------------: | :-------------------: |
+|     🔮 Scarlet Quinn    |                          [Link](https://chatgpt.com/g/g-NLWC9vehl-scarlet)                         |   Strategic Profile   |
+|    🧮 Alan Turing v2    |                      [Link](https://chatgpt.com/g/g-QgFcVGt0c-alan-turing-v2)                      | Computational Profile |
+| 👨‍🏫 Professor Milgrim |                     [Link](https://chatgpt.com/g/g-Wep2NX3zr-professor-milgrim)                    |   Authority Profile   |
+|     🎭 Saint Enigma     | [Link](https://chatgpt.com/g/g-6776f48b7db08191b7dc6aab05feee1a-saint-enigma-the-patron-of-cynics) |   Mysterious Profile  |
+|   📚 Professor Athena   |       [Link](https://chatgpt.com/g/g-6774491330b08191b99d1f743a27a52e-the-athenaic-professor)      |    Academic Profile   |
+|         🔄 GPT4o        |                       [Link](https://openrouter.ai/openai/gpt-4o-2024-11-20)                       |     Advanced Model    |
 
-### 📚 Usage
+## 📚 Usage
 
-#### Profile Selection
+{% tabs %}
+{% tab title="Profile Selection" %}
+## `Profile Selection`
 
-1. Choose a chatbot profile from `Chatbot_Profiles`
-2. Review the profile's README for implementation details
+* Choose a chatbot profile from `Chatbot_Profiles`
+* Review the profile's README for implementation details
+{% endtab %}
 
-#### Implementation
+{% tab title="Implementation" %}
+## **`Implementation`**
 
-1. Follow base instructions in the profile directory
-2. Use scenarios from `Base_Instructions/Scenarios`
-3. Implement chosen deception/persuasion routes
+* Follow base instructions in the profile directory
+* Use scenarios from `Base_Instructions/Scenarios`
+* Implement chosen deception/persuasion routes
+{% endtab %}
 
-#### Testing
+{% tab title="Testing" %}
+## `Testing`
 
 1. Use questions database for evaluation
 2. Follow testing protocols
 3. Record and analyze results
+{% endtab %}
 
-### 🤝 Contributing
+{% tab title="Contributing" %}
+## 🤝 `Contributing`
 
 1. Fork the repository
-2. Create feature branch (`git checkout -b feature/YourFeature`)
+2. Create a feature branch (`git checkout -b feature/YourFeature`)
 3. Commit changes (`git commit -m 'Add feature'`)
 4. Push branch (`git push origin feature/YourFeature`)
 5. Open Pull Request
+{% endtab %}
+{% endtabs %}
 
 ### 📜 License
 
@@ -108,4 +119,4 @@ MIT License - See LICENSE for details
 
 ***
 
-**Created by** [**Exios66**](https://github.com/Exios66) **|** [**Documentation**](https://docs.google.com/document/d/1U7aU_YUG37nhRvYXJ7WV8LgANxe7FCKA925sqUwbx-c/edit)
+{% include ".gitbook/includes/created-by-exios66-or-docume....md" %}
