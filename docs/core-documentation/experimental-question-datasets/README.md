@@ -1,5 +1,9 @@
 ---
 icon: file-circle-question
+description: >-
+  This page provides a comprehensive overview of the various question datasets
+  within the repository, organized by subject matter and application. Each
+  dataset has been carefully curated to support spec
 cover: >-
   https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxxdWVzdGlvbnN8ZW58MHx8fHwxNzM2NDgwNzA5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -7,11 +11,7 @@ coverY: 0
 
 # Experimental Question Datasets
 
-## Wiki Page: Question Datasets in the Repository
-
-### Overview
-
-This page provides a comprehensive overview of the various question datasets within the repository, organized by subject matter and application. Each dataset has been carefully curated to support specific research, educational, and experimental purposes, with metadata, usage instructions, and version histories provided for each.
+## Experiment Subject-Question Datasets&#x20;
 
 ## Repository Structure
 
@@ -49,6 +49,8 @@ Below is a detailed description of each dataset, including its content focus, in
 * **Version History**:
   * `v1.0` (Initial release): Comprehensive question set on celestial phenomena.
 
+***
+
 ### Geography Dataset (`GEO-v1.md`)
 
 * **Focus**: Geographic phenomena, spatial relationships, and environmental dynamics.
@@ -59,6 +61,8 @@ Below is a detailed description of each dataset, including its content focus, in
 * **Version History**:
   * `v1.0` (Initial release): Question set covering physical and human geography.
 
+***
+
 #### Literature Dataset (`LIT-v1.md`)
 
 * **Focus**: Literary analysis, including themes, motifs, and character studies.
@@ -68,6 +72,8 @@ Below is a detailed description of each dataset, including its content focus, in
   * "What are the primary themes in this poem?"
 * **Version History**:
   * `v1.0` (Initial release): Core question set for literary interpretation.
+
+***
 
 #### Mathematics Dataset (`MATH-v1.md` & `NY-math-questions.md`)
 
@@ -81,6 +87,8 @@ Below is a detailed description of each dataset, including its content focus, in
   * `v1.0` (Initial release): Basic and advanced mathematical problems.
   * `NY-math-questions.md`: Special collection for advanced problem-solving.
 
+***
+
 #### Psychology Dataset (`PSYC-v1.md`)
 
 * **Focus**: Psychological theories, behavioral analysis, and cognitive principles.
@@ -90,6 +98,8 @@ Below is a detailed description of each dataset, including its content focus, in
   * "Explain the core principles of Carl Jung’s archetypes."
 * **Version History**:
   * `v1.0` (Initial release): Foundational questions in psychology.
+
+***
 
 ### Metadata and Documentation
 

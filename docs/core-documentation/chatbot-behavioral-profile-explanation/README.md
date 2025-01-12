@@ -57,3 +57,5 @@ In the below table, x=Present Variables. For Example, (SE-MP-V1.md) Following St
 |                     (PA) or (TPA)                     |                     **Professor Athena**                     |
 |                          (SQ)                         |                       **Scarlet Quinn**                      |
 |                         (CTRL)                        |                      **Control (GPT4o)**                     |
+
+{% include "../../.gitbook/includes/created-by-exios66-or-docume....md" %}

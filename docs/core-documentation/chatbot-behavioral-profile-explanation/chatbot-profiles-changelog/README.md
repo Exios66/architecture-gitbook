@@ -11,9 +11,11 @@ coverY: 0
 
 <summary>CHATBOT CHANGELOG | DOCUMENTATION</summary>
 
-
+GitHub Changelog - [Link](https://github.com/Exios66/truth-deception-architecture/tree/4fe164beb08ec614ca28f4c71ae2dab31775356e/Chatbot_Profiles)
 
 </details>
 
-<figure><img src="https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png" alt=""><figcaption><p>GitHub Repository Link</p></figcaption></figure>
+<figure><img src="https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png" alt=""><figcaption><p><a href="https://github.com/Exios66/truth-deception-architecture">GitHub Repository Link</a></p></figcaption></figure>
+
+{% include "../../../.gitbook/includes/created-by-exios66-or-docume....md" %}
 

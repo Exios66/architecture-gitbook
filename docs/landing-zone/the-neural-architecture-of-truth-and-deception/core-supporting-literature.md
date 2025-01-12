@@ -7,3 +7,4 @@ coverY: 0
 
 # Core Supporting Literature
 
+{% include "../../.gitbook/includes/created-by-exios66-or-docume....md" %}

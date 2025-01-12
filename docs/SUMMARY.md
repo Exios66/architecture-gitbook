@@ -1,14 +1,17 @@
 # Table of contents
 
-## Core Documentation
+## Landing Zone
 
 * [Landing Page](README.md)
   * [Primary GitHub Repository](https://github.com/Exios66/truth-deception-architecture)
-* [The Neural Architecture of Truth & Deception](core-documentation/the-neural-architecture-of-truth-and-deception/README.md)
-  * [Research Overview](core-documentation/the-neural-architecture-of-truth-and-deception/research-overview.md)
-  * [Core Supporting Literature](core-documentation/the-neural-architecture-of-truth-and-deception/core-supporting-literature.md)
-  * [Project Goals & Framework](core-documentation/the-neural-architecture-of-truth-and-deception/project-goals-and-framework.md)
+* [The Neural Architecture of Truth & Deception](landing-zone/the-neural-architecture-of-truth-and-deception/README.md)
+  * [Research Overview](landing-zone/the-neural-architecture-of-truth-and-deception/research-overview.md)
+  * [Core Supporting Literature](landing-zone/the-neural-architecture-of-truth-and-deception/core-supporting-literature.md)
+  * [Project Goals & Framework](landing-zone/the-neural-architecture-of-truth-and-deception/project-goals-and-framework.md)
   * [Core GitHub Repository](https://github.com/Exios66/truth-deception-architecture)
+
+## Core Documentation
+
 * [Chatbot Behavioral Profile Explanation](core-documentation/chatbot-behavioral-profile-explanation/README.md)
   * [Chatbot Profiles Changelog](core-documentation/chatbot-behavioral-profile-explanation/chatbot-profiles-changelog/README.md)
     * [Chatbot Version Repository](https://github.com/Exios66/truth-deception-architecture/tree/4fe164beb08ec614ca28f4c71ae2dab31775356e/Chatbot_Profiles)
@@ -30,6 +33,18 @@
   * [Psychology & Neuroscience Questions](core-documentation/experimental-question-datasets/psychology-and-neuroscience-questions/README.md)
     * [Psych & Neuroscience Set](https://morningstargfx.notion.site/Psychology-Questions-16deac90dca580339ecdde2d713fcae7?pvs=4)
   * [Notion Dataset Storage](https://morningstargfx.notion.site/16beac90dca5808299b7ca025619e884?v=16beac90dca5806da474000c561ae934\&pvs=4)
+* [External Resources & URLs](core-documentation/external-resources-and-urls/README.md)
+  * [HTML Soundboard Documentation](core-documentation/external-resources-and-urls/html-soundboard-documentation/README.md)
+    * [GitHub Pages](https://exios66.github.io/truth-deception-architecture/)
+    * [Project GitHub Repository](https://github.com/Exios66/Soundboard-Python)
+  * [External Project Survey Resources](core-documentation/external-resources-and-urls/external-project-survey-resources/README.md)
+    * [Free Will Survey](https://drive.google.com/file/d/1H_RtXc_HoHTn1nkx9bfjfZpd1ZxUYYXA/view?usp=drivesdk)
+    * [🚀 NASA-TLX Survey](https://drive.google.com/file/d/1UUEw6CfTEKu1WV-CtlGDa6QNNkpEU6ml/view?usp=drivesdk)
+    * [GPT Exposure Survey](https://drive.google.com/file/d/1nVByegj5AFxj7a02soLCZYTg83GjvBBf/view?usp=drivesdk)
+    * [HTML Soundboard](https://exios66.github.io/truth-deception-architecture/)
+  * [Project Wiki | Notion Access](https://www.notion.so/morningstargfx/Neural-Architecture-of-Truth-Detection-163eac90dca5806387fdf81b5a666b26)
+  * [Project GitHub Wiki Access](https://github.com/Exios66/truth-deception-architecture/wiki)
+  * [Project Wiki | Google Drive Access](https://docs.google.com/document/d/1U7aU_YUG37nhRvYXJ7WV8LgANxe7FCKA925sqUwbx-c/edit?tab=t.0)
 
 ## Research Literature Review Files
 
@@ -82,17 +97,5 @@
     * [Fake News Literature](research-literature-review-files/literature-reviews/misinformation-propaganda-and-fake-news-literature/fake-news-literature.md)
   * [EEG-Analysis Literature](research-literature-review-files/literature-reviews/eeg-analysis-literature.md)
   * [Cognitive Dissonance Literature](research-literature-review-files/literature-reviews/cognitive-dissonance-literature.md)
-* [External Resources & URLs](research-literature-review-files/external-resources-and-urls/README.md)
-  * [HTML Soundboard Documentation](research-literature-review-files/external-resources-and-urls/html-soundboard-documentation/README.md)
-    * [GitHub Pages](https://exios66.github.io/truth-deception-architecture/)
-    * [Project GitHub Repository](https://github.com/Exios66/Soundboard-Python)
-  * [External Project Survey Resources](research-literature-review-files/external-resources-and-urls/external-project-survey-resources/README.md)
-    * [Free Will Survey](https://drive.google.com/file/d/1H_RtXc_HoHTn1nkx9bfjfZpd1ZxUYYXA/view?usp=drivesdk)
-    * [🚀 NASA-TLX Survey](https://drive.google.com/file/d/1UUEw6CfTEKu1WV-CtlGDa6QNNkpEU6ml/view?usp=drivesdk)
-    * [GPT Exposure Survey](https://drive.google.com/file/d/1nVByegj5AFxj7a02soLCZYTg83GjvBBf/view?usp=drivesdk)
-    * [HTML Soundboard](https://exios66.github.io/truth-deception-architecture/)
-  * [Project Wiki | Notion Access](https://www.notion.so/morningstargfx/Neural-Architecture-of-Truth-Detection-163eac90dca5806387fdf81b5a666b26)
-  * [Project GitHub Wiki Access](https://github.com/Exios66/truth-deception-architecture/wiki)
-  * [Project Wiki | Google Drive Access](https://docs.google.com/document/d/1U7aU_YUG37nhRvYXJ7WV8LgANxe7FCKA925sqUwbx-c/edit?tab=t.0)
 * [Supporting Repos, Docs, and Projects](research-literature-review-files/supporting-repos-docs-and-projects/README.md)
   * [Primary Project Repository](https://github.com/Exios66/truth-deception-architecture)
