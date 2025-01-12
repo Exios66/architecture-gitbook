@@ -1,5 +1,8 @@
 ---
 icon: circle-1
+description: >-
+  Original System Prompt Introduced in the Research Paper: "People can't
+  distinguish GPT4 from a Human..."
 ---
 
 # Original System Prompt
