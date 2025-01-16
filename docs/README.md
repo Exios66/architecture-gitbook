@@ -8,7 +8,7 @@ coverY: 0
 
 ## 🧠 The Neural Architecture of Truth & Deception Project
 
-### Last Update - 01.10.25
+### Last Update - 01.15.25
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) ![Last Update](https://img.shields.io/badge/Updated-01.06.24-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
@@ -26,9 +26,13 @@ coverY: 0
 * Contributing
 * License
 
+***
+
 ### 🎯 Overview
 
 A comprehensive framework for studying and implementing various approaches to truth-telling and deceptive behaviors in AI systems. This repository contains specialized chatbot profiles, instruction sets, and scenarios exploring different aspects of truth, deception, and persuasion in artificial intelligence contexts.
+
+***
 
 ### 📂 Repository Structure
 
@@ -52,7 +56,11 @@ truth-deception-architecture/
 └── CHANGELOG.md                     # Project version history
 ```
 
+***
+
 ### 🤖 Key Components
+
+***
 
 #### Chatbot Profiles
 
@@ -115,7 +123,7 @@ truth-deception-architecture/
 
 ### 📜 License
 
-MIT License - See LICENSE for details
+MIT License - See [LICENSE ](license.md)for details
 
 ***
 

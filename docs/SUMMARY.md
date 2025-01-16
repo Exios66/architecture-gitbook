@@ -5,8 +5,9 @@
 * [Landing Page](README.md)
   * [Primary GitHub Repository](https://github.com/Exios66/truth-deception-architecture)
 * [The Neural Architecture of Truth & Deception](core-documentation/the-neural-architecture-of-truth-and-deception/README.md)
-  * [Research Overview](core-documentation/the-neural-architecture-of-truth-and-deception/research-overview.md)
-  * [Core Supporting Literature](core-documentation/the-neural-architecture-of-truth-and-deception/core-supporting-literature.md)
+  * [Research Overview](landing-zone/the-neural-architecture-of-truth-and-deception/research-overview/README.md)
+    * [Core Supporting Literature](landing-zone/the-neural-architecture-of-truth-and-deception/research-overview/core-supporting-literature.md)
+    * [Drive Based Literature Review](https://drive.google.com/drive/folders/1Fpdvozdi4yHG_X_FZJvzqLI_wPBBdwiy?usp=drive_link)
   * [Project Goals & Framework](core-documentation/the-neural-architecture-of-truth-and-deception/project-goals-and-framework.md)
   * [Core GitHub Repository](https://github.com/Exios66/truth-deception-architecture)
 
@@ -99,3 +100,7 @@
   * [Cognitive Dissonance Literature](research-literature-review-files/literature-reviews/cognitive-dissonance-literature.md)
 * [Supporting Repos, Docs, and Projects](research-literature-review-files/supporting-repos-docs-and-projects/README.md)
   * [Primary Project Repository](https://github.com/Exios66/truth-deception-architecture)
+
+***
+
+* [LICENSE](license.md)
