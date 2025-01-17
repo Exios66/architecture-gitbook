@@ -23,11 +23,13 @@ layout:
 
 {% tabs %}
 {% tab title="Project Goals" %}
+## Project Primary Goals
 
+The proliferation of AI-mediated information exchange has created unprecedented challenges in human cognition and information processing. While behavioral studies have examined human responses to AI-generated content, the underlying neural mechanisms remain poorly understood.
 {% endtab %}
 
-{% tab title="Project Framework" %}
-The proliferation of AI-mediated information exchange has created unprecedented challenges in human cognition and information processing. While behavioral studies have examined human responses to AI-generated content, the underlying neural mechanisms remain poorly understood.
+{% tab title="Project Wiki" %}
+
 
 {% embed url="https://docs.google.com/document/d/1U7aU_YUG37nhRvYXJ7WV8LgANxe7FCKA925sqUwbx-c/edit?usp=sharing" %}
 
@@ -35,9 +37,11 @@ The proliferation of AI-mediated information exchange has created unprecedented 
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://docs.google.com/document/d/1U7aU_YUG37nhRvYXJ7WV8LgANxe7FCKA925sqUwbx-c/edit?usp=sharing" %}
-Core Project Goals & Resources Based in Google Drive
-{% endembed %}
+## The Neural Architecture of Truth & Deception Project
+
+
+
+
 
 
 
