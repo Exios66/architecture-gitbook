@@ -7,4 +7,12 @@ coverY: 0
 
 # Core Supporting Literature
 
+| Title | Topic | Publishing Date |
+| ----- | ----- | --------------- |
+|       |       |                 |
+|       |       |                 |
+|       |       |                 |
+
+
+
 {% include "../../../.gitbook/includes/created-by-exios66-or-docume....md" %}
