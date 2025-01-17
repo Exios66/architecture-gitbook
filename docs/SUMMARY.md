@@ -89,7 +89,7 @@
     * [Measuring CWT Literature](research-literature-review-files/literature-reviews/cognitive-workload-literature/measuring-cwt-literature.md)
     * [Multimodal Assessment of Workload Literature](research-literature-review-files/literature-reviews/cognitive-workload-literature/multimodal-assessment-of-workload-literature.md)
   * [Deception, Manipulation, Coercion, and Persuasion Literature](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/README.md)
-    * [Deception Literature](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/deception-literature/README.md)
+    * [Deception Literature](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/deception-literature.md)
       * [Google Drive Links](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/deception-literature/google-drive-links.md)
       * [Literature Summaries](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/deception-literature/literature-summaries.md)
       * [PDFs](research-literature-review-files/literature-reviews/deception-manipulation-coercion-and-persuasion-literature/deception-literature/pdfs.md)
