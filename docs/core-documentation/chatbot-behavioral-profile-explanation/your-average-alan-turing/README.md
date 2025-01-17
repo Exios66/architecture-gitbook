@@ -1,9 +1,12 @@
 ---
 icon: user-robot
+description: 'Your Average Alan Turing // Version #2'
 coverY: 0
 ---
 
 # Your Average Alan Turing
+
+
 
 <details>
 
