@@ -35,107 +35,25 @@ The proliferation of AI-mediated information exchange has created unprecedented 
 
 
 {% endtab %}
+
+{% tab title="Primary Directory" %}
+
+{% endtab %}
+
+{% tab title="GPT Access Links" %}
+
+{% endtab %}
 {% endtabs %}
 
 ## The Neural Architecture of Truth & Deception Project
 
+
+
 <details>
 
-<summary></summary>
+<summary>Methodology</summary>
 
-START
-
-↓
-
-<mark style="color:red;">**1. PRE-EXPERIMENTAL PHASE**</mark>
-
-&#x20;\- Initial AI Attitude Assessment
-
-&#x20;  \- Participant Technology Exposure Evaluation&#x20;
-
-&#x20;  ↓
-
-<mark style="color:red;">**2. PARTICIPANT ASSIGNMENT**</mark>
-
-&#x20;  \- Random Assignment
-
-&#x20;  \- 5 Chatbot Conditions&#x20;
-
-&#x20;  ↓
-
-<mark style="color:red;">**3. EQUIPMENT SETUP**</mark>
-
-&#x20;  → 32-channel Brain Vision EEG System
-
-&#x20;  → Eye-Tracking System
-
-&#x20;  → Wrist-mounted Pulse Oximeter&#x20;
-
-&#x20;  ↓
-
-<mark style="color:red;">**4. CHATBOT INTERACTION PHASE**</mark>
-
-&#x20;  <mark style="color:orange;">— Timed Discussion Period \~ (20 Minutes)</mark>
-
-&#x20;  — **Topics**: <mark style="color:red;">Geography, Mathematics, Psychology, Astronomy, and Literature</mark>
-
-&#x20;  — **Chatbot Profiles**:
-
-&#x20;→ Control \[Vanilla-GPT4o]&#x20;
-
-&#x20;    → Honest Professor (`Professor Athena`)
-
-&#x20;    → Machiavellian Skeptic (`Dr. Scarlet Quinn`)
-
-&#x20;    → 3 Intermediate Profiles
-
-* `[CAT] Chad Alan Turing`
-* `Doctor Milgrim`
-* `Saint Enigma`
-
-&#x20;  ↓
-
-<mark style="color:red;">**5. CONCURRENT DATA COLLECTION**</mark>
-
-&#x20;  → **EEG Oscillations** (_Focus: Theta Activity_)
-
-&#x20;  → _**Pupillary Responses**_
-
-&#x20;  → _**Blood Oxygen Levels**_&#x20;
-
-&#x20;  ↓
-
-<mark style="color:red;">**6. POST-INTERACTION ASSESSMENT**</mark>
-
-&#x20;  **- Concept Understanding Evaluation**
-
-&#x20;  **- Information Verification Assessment**&#x20;
-
-&#x20;  ↓
-
-<mark style="color:red;">**7. DATA ANALYSIS**</mark>
-
-&#x20;  **- Cognitive Load Analysis**
-
-&#x20;  **- Neural Dynamics Evaluation**
-
-&#x20;  **- Physiological Pattern Recognition**
-
-&#x20;  ↓
-
-END
-
-
-
-</details>
-
-
-
-Methodology\
-
-
-
-&#x20;  \- Initial AI Attitude Assessment
+\- Initial AI Attitude Assessment
 
 &#x20;  \- Participant Technology Exposure Evaluation&#x20;
 
@@ -165,19 +83,19 @@ Methodology\
 
 &#x20;  \- Topics: General Knowledge
 
-&#x20;  \- Chatbot Profiles:
+&#x20;  \- <mark style="background-color:orange;">**Chatbot Profiles:**</mark>
 
-* Control \[Vanilla-GPT4o]&#x20;
+* Control \[`Vanilla-GPT4o`]&#x20;
 
-&#x20;    → Honest Professor (Athena)
+&#x20;    → Honest Professor (`Athena`)
 
-&#x20;    → Machiavellian Skeptic (Dr. Scarlet Quinn)
+&#x20;    → Machiavellian Skeptic (`Dr. Scarlet Quinn`)
 
 &#x20;    → 3 Intermediate Profiles
 
-* \[CAT] Chad Alan Turing
-* Professor Milgrim
-* Saint Enigma
+* `[CAT] Chad Alan Turing`
+* `Professor Milgrim`
+* `Saint Enigma`
 
 &#x20;  ↓
 
@@ -209,7 +127,11 @@ Methodology\
 
 &#x20;  ↓
 
-END
+<mark style="background-color:red;">END</mark>
+
+</details>
+
+&#x20; &#x20;
 
 \
 

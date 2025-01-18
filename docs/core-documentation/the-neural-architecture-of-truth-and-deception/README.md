@@ -27,3 +27,6 @@ layout:
 Core Google Drive File of Project Resources
 {% endembed %}
 
+***
+
+{% include "../../.gitbook/includes/custom-gpts.md" %}

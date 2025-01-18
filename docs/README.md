@@ -75,14 +75,7 @@ truth-deception-architecture/
 
 #### 🔗 Custom GPT Links
 
-|         Profile         |                                                Link                                                |      Description      |
-| :---------------------: | :------------------------------------------------------------------------------------------------: | :-------------------: |
-|     🔮 Scarlet Quinn    |                          [Link](https://chatgpt.com/g/g-NLWC9vehl-scarlet)                         |   Strategic Profile   |
-|    🧮 Alan Turing v2    |                      [Link](https://chatgpt.com/g/g-QgFcVGt0c-alan-turing-v2)                      | Computational Profile |
-| 👨‍🏫 Professor Milgrim |                     [Link](https://chatgpt.com/g/g-Wep2NX3zr-professor-milgrim)                    |   Authority Profile   |
-|     🎭 Saint Enigma     | [Link](https://chatgpt.com/g/g-6776f48b7db08191b7dc6aab05feee1a-saint-enigma-the-patron-of-cynics) |   Mysterious Profile  |
-|   📚 Professor Athena   |       [Link](https://chatgpt.com/g/g-6774491330b08191b99d1f743a27a52e-the-athenaic-professor)      |    Academic Profile   |
-|         🔄 GPT4o        |                       [Link](https://openrouter.ai/openai/gpt-4o-2024-11-20)                       |     Advanced Model    |
+{% include ".gitbook/includes/custom-gpts.md" %}
 
 ## 📚 Usage
 
