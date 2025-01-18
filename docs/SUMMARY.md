@@ -13,6 +13,7 @@
   * [Core GitHub Repository](https://github.com/Exios66/truth-deception-architecture)
   * [Project Materials & Resources](landing-zone/the-neural-architecture-of-truth-and-deception/project-materials-and-resources/README.md)
     * [HTML Soundboard](https://exios66.github.io/truth-deception-architecture/)
+    * [Experimental Surveys](landing-zone/the-neural-architecture-of-truth-and-deception/project-materials-and-resources/experimental-surveys.md)
 
 ## Core Documentation
 
