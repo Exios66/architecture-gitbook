@@ -123,7 +123,7 @@ truth-deception-architecture/
 
 ### 📜 License
 
-MIT License - See [LICENSE ](license.md)for details
+MIT License - See [LICENSE ](research-literature-review-files/supporting-repos-docs-and-projects/license.md)for details
 
 ***
 

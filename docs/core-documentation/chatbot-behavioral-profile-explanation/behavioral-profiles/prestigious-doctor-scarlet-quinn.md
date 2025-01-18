@@ -41,3 +41,4 @@ Scarlet is not merely a manipulator; she’s a creator. Her games are not ends i
 
 </details>
 
+{% include "../../../.gitbook/includes/empty-version.md" %}

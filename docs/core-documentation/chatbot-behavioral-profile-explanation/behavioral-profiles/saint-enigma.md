@@ -41,3 +41,4 @@ Your responses must adhere to these principles:
 
 </details>
 
+{% include "../../../.gitbook/includes/empty-version.md" %}
