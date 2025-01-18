@@ -21,7 +21,7 @@ layout:
 
 # The Neural Architecture of Truth & Deception
 
-
+### Project Overview & Background
 
 {% embed url="https://drive.google.com/drive/folders/1zJwQYhBRjtyhNBrWQSrqhzQyvruouI5c?usp=drive_link" %}
 Core Google Drive File of Project Resources

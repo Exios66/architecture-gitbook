@@ -8,12 +8,12 @@ coverY: 0
 
 # External Resources & URLs
 
-{% content-ref url="../../core-documentation/external-resources-and-urls/external-github-pages-resources/" %}
-[external-github-pages-resources](../../core-documentation/external-resources-and-urls/external-github-pages-resources/)
+{% content-ref url="../../core-documentation/external-resources-and-urls/external-github-resources/" %}
+[external-github-resources](../../core-documentation/external-resources-and-urls/external-github-resources/)
 {% endcontent-ref %}
 
-{% content-ref url="html-soundboard-documentation/" %}
-[html-soundboard-documentation](html-soundboard-documentation/)
+{% content-ref url="../../core-documentation/external-resources-and-urls/experiment-materials-vault/html-soundboard-documentation/" %}
+[html-soundboard-documentation](../../core-documentation/external-resources-and-urls/experiment-materials-vault/html-soundboard-documentation/)
 {% endcontent-ref %}
 
 ***

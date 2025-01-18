@@ -19,13 +19,13 @@ layout:
     visible: true
 ---
 
-# External Project Survey Resources
+# External GitHub Resources
 
 
 
 1. ### Free Will Survey
 
-> [FAD Survey (1/2)](https://drive.google.com/file/d/1H_RtXc_HoHTn1nkx9bfjfZpd1ZxUYYXA/view?usp=drivesdk) | PDF
+GitHub Pages -&#x20;
 
 <figure><img src="https://drive.google.com/file/d/1H_RtXc_HoHTn1nkx9bfjfZpd1ZxUYYXA/view?usp=drivesdk" alt=""><figcaption></figcaption></figure>
 
