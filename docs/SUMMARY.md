@@ -84,9 +84,18 @@
       * [GitHub Pages](https://exios66.github.io/truth-deception-architecture/)
       * [Project GitHub Repository](https://github.com/Exios66/Soundboard-Python)
     * [Administration Documentation Vault](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/README.md)
-      * [Standard Demographic Survey](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/standard-demographic-survey.md)
-      * [Informed Consent Forms](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/informed-consent-forms.md)
       * [Participant Cue Card](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/participant-cue-card.md)
+      * [Informed Consent Forms](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/informed-consent-forms.md)
+      * [Standard Demographic Survey](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/standard-demographic-survey.md)
+      * [ChatGPT & Technology Opinions Survey](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/chatgpt-and-technology-opinions-survey.md)
+      * [Synthesized Free Will & Determinism Inventory](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/synthesized-free-will-and-determinism-inventory.md)
+      * [Combined Conformity & Self-Esteem Survey](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/combined-conformity-and-self-esteem-survey.md)
+      * [Condensed Big-Five Personality Inventory](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/condensed-big-five-personality-inventory.md)
+      * [Preliminary Knowledge Exam](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/preliminary-knowledge-exam.md)
+      * [Benchmarking Rounds](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/benchmarking-rounds.md)
+      * [NASA-TLX Survey](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/nasa-tlx-survey.md)
+      * [Page](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/page.md)
+      * [Exit Survey & Quantitative Responses](core-documentation/external-resources-and-urls/experiment-materials-vault/administration-documentation-vault/exit-survey-and-quantitative-responses.md)
 
 ## Chatbot Supplementary Documentation
 

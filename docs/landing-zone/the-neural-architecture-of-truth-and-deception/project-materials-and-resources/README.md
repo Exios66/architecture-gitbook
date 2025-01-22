@@ -1,5 +1,7 @@
 ---
 icon: gear-complex-code
+cover: >-
+  https://images.unsplash.com/photo-1736512646004-a1a1461b8511?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxNYXRlcmlhbHN8ZW58MHx8fHwxNzM3NTg5NzM4fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 

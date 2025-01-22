@@ -1,5 +1,6 @@
 ---
 icon: clipboard-list
+coverY: 0
 ---
 
 # Experimental Surveys
